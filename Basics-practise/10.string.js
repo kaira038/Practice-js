@@ -51,7 +51,7 @@ let letter=platform[3];  //c
 console.log(letter);
 
 
-//2. Extracting srting parts
+//2. Extracting string parts
 
 //2.1 slice(start,end)
 
